@@ -1,0 +1,9 @@
+1. Instalar as ferramentas do go
+2. Criar um modulo
+ - cd .\a pasta em que estamos\
+ - para criar modulo "go mod init Nome_modulo"
+3. Apos a sua criacao podemos executar o nosso arquivo.go "go run . OU go run arquivo.go" ou podemos criar um executavel "go build . Ou go build arquivo.go"
+ - go run . e o go build . executa o nosso modulo e gera um executavel do modulo 
+ - "go run arquivo.go" ou "go build arquivo.go"  eles executam o arquivo e geram o executavel, respectivamente.
+
+ 4. Ou podemos usar o botao no vscode para rodar o arquivo.go 
