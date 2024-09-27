@@ -1,2 +1,2 @@
 # GoLang
- Desenvolvendo projetos usando a mais recente linguagem de programação GoLang
+Developing projects using the most recently coding language GoLang
